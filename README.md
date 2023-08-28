@@ -10,6 +10,7 @@
 
 - Homework 1 (Complete before class on Wednesday, August 30) 
 	- [link](Homework/HW_1_installation/HW_1_installation.pdf)
+	    - [post issues here](https://github.com/IE-555/fall2023/issues/2)
 	
 ---	
 
