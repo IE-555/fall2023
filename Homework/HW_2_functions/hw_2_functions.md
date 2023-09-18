@@ -1,5 +1,6 @@
 # Homework 2 - Functions
 - Due date and submission details to be determined. 
+- If you have questions, [post them to the Issue Tracker](https://github.com/IE-555/fall2023/issues/4).  Emailed questions will not be answered.
 
 --- 
 
