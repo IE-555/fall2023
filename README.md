@@ -10,7 +10,7 @@
 
 - Homework 2 (due date to be determined)
 	- [link](Homework/HW_2_functions/hw_2_functions.md)
-	    - [post issues/questions here](https://github.com/IE-555/fall2023/issues/3)
+	    - [post issues/questions here](https://github.com/IE-555/fall2023/issues/4)
 - Homework 1 (Complete before class on Wednesday, August 30) 
 	- [link](Homework/HW_1_installation/HW_1_installation.pdf)
 	    - [post issues here](https://github.com/IE-555/fall2023/issues/2)
