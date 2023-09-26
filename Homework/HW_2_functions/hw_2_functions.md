@@ -45,7 +45,7 @@ In this assignment you are asked to submit a single file, named `myFunctions.py`
 
 
 4. Write a function named `count_the_elements` that will return the total number of elements in a given list.  For example:
-    - `['abcde']`` has 1 element
+    - `['abcde']` has 1 element
     - `[1.2, 3.4, -5.6]` has 3 elements
     - `[1, 2, [3]]` has 3 elements
     - `[1, [2, 5.2], -7.9, [3, [-2, 3.]]]` has 7 elements
