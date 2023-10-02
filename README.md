@@ -8,9 +8,14 @@
 
 ## Homework (reverse chronological)
 
-- Homework 2 (due date to be determined)
+- Homework 3 (due Wednesday, Oct. 18)
+	- [link](Homework/HW_3_pandas/hw_3_pandas.md)
+	    - [post issues/questions here](https://github.com/IE-555/fall2023/issues/8)
+
+- Homework 2 (due Wednesday, Oct. 4)
 	- [link](Homework/HW_2_functions/hw_2_functions.md)
 	    - [post issues/questions here](https://github.com/IE-555/fall2023/issues/4)
+
 - Homework 1 (Complete before class on Wednesday, August 30) 
 	- [link](Homework/HW_1_installation/HW_1_installation.pdf)
 	    - [post issues here](https://github.com/IE-555/fall2023/issues/2)
