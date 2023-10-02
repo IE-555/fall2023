@@ -1,6 +1,6 @@
 # Homework 3 - Pandas
 - Due date and submission details to be determined. 
-- If you have questions, [post them to the Issue Tracker](https://github.com/IE-555/fall2023/issues/6).  Emailed questions will not be answered.
+- If you have questions, [post them to the Issue Tracker](https://github.com/IE-555/fall2023/issues/8).  Emailed questions will not be answered.
 
 --- 
 
