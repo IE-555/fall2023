@@ -54,13 +54,14 @@ a given pandas bike trips history dataframe.
     - HINT 2:  The `groupby()` operation may be helpful.
         
 10.  Write a function named `topXdepartures` that will find the `x` stations that have the most departures, sorted in descending order.  If there are ties, include those as well.  For example, your function may be asked to find the 10 stations with the most departure; if there is a 3-way tie for 10th place, then your function should return 12 stations.  Your function should return a pandas **dataframe** containing three columns:
-	- `rank` (where rank `1` has the highest number of departures.  If two or more stations have the same number of departures, then those stations should have the same rank);
-    - `start station id`; and 
-    - `number of departures`.
-    
+- `rank` (where rank `1` has the highest number of departures.  If two or more stations have the same number of departures, then those stations should have the same rank);
+- `start station id`; and 
+- `number of departures`.
+
     This function will take two inputs, in this order:
-        - An integer indicating the top `x` number of departures; and 
-        - A pandas bike trips history dataframe.
+    - An integer indicating the top `x` number of departures; and
+    - A pandas bike trips history dataframe.
     
+
     
 11.  Write a function named `numEarlyTrips` that returns the integer number of trips that were started between 8:00am and 10:00am.  The function will have one input: a given pandas bike trips history dataframe. 
