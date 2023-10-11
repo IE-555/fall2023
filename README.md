@@ -31,8 +31,10 @@
 	
 - Module 2 -- Pandas
     - 2023-09-20 | [Intro to Pandas](Module_2_Pandas/intro_to_pandas.ipynb)
+    - 2023-10-04 | [Updated Jupyter Notebook for in-class exercises](Module_2_Pandas/in_class_exercises_2023-10-04.ipynb)
 	
 - Module 3 -- Data Visualization
+    - 2023-10-11 | [Intro to Plotting](Module_3_Data_Viz/notes_03_data_visualization.pdf)
     
 - Module 4 -- NumPy 
 
