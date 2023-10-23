@@ -10,7 +10,7 @@
 
 - Homework 4 (due Monday, Nov. 6. **IN CLASS**)
     - [link](Homework/HW_4_data_viz/HW_4_data_viz.pdf)
-        - [post issues/questions here](https://github.com/IE-555/fall2023/issues/)
+        - [post issues/questions here](https://github.com/IE-555/fall2023/issues/12)
         
 - Homework 3 (due Wednesday, Oct. 18)
 	- [link](Homework/HW_3_pandas/hw_3_pandas.md)
