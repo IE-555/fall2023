@@ -1,0 +1,41 @@
+% Problem,SolnMethod,Value
+0,|genetic algorithm|,112.749860
+0,|simulated annealing|,75.220917
+0,|tabu search|,111.574225
+0,|optimal|,166.170172
+1,|genetic algorithm|,31.819762
+1,|simulated annealing|,34.014603
+1,|tabu search|,41.022612
+1,|optimal|,48.634470
+2,|genetic algorithm|,68.709200
+2,|simulated annealing|,44.886988
+2,|tabu search|,57.290797
+2,|optimal|,104.148106
+3,|genetic algorithm|,46.387311
+3,|simulated annealing|,35.335046
+3,|tabu search|,51.727828
+3,|optimal|,68.404717
+4,|genetic algorithm|,35.103455
+4,|simulated annealing|,22.944971
+4,|tabu search|,40.217290
+4,|optimal|,52.252706
+5,|genetic algorithm|,1.140533
+5,|simulated annealing|,1.317559
+5,|tabu search|,1.287446
+5,|optimal|,1.733297
+6,|genetic algorithm|,49.154174
+6,|simulated annealing|,40.475277
+6,|tabu search|,38.517719
+6,|optimal|,69.682901
+7,|genetic algorithm|,53.138807
+7,|simulated annealing|,27.211498
+7,|tabu search|,52.395275
+7,|optimal|,75.051565
+8,|genetic algorithm|,128.584705
+8,|simulated annealing|,85.175769
+8,|tabu search|,118.097886
+8,|optimal|,196.772564
+9,|genetic algorithm|,91.139572
+9,|simulated annealing|,106.274723
+9,|tabu search|,91.585159
+9,|optimal|,133.472658
