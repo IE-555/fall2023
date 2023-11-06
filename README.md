@@ -41,6 +41,7 @@
     - 2023-10-11 | [Intro to Plotting](Module_3_Data_Viz/notes_03_data_visualization.pdf)
     
 - Module 4 -- NumPy 
+    - 2023-10-30 | [Intro to Numpy](Module_4_Numpy/notes_04_numpy.ipynb)
 
 - Module 5 -- Online Data
 
