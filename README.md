@@ -7,7 +7,10 @@
 
 
 ## Homework (reverse chronological)
-
+- Homework 5 (due Monday, Dec. 4, by 12:00pm noon)
+    - [link](Homework/HW_5_numpy)
+        - [post issues/questions here](tbd)
+        
 - Homework 4 (due Monday, Nov. 6. **IN CLASS**)
     - [link](Homework/HW_4_data_viz/HW_4_data_viz.pdf)
         - [post issues/questions here](https://github.com/IE-555/fall2023/issues/12)
