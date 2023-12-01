@@ -9,11 +9,11 @@ Sometimes source data aren't in a format that we would've designed.  The purpose
 
 You need to write one (1) function that calculates some statistics about student grades in a particular course.
 
-- Your function should be in a Python script named `UCASEUBUSERNAME_grades.py` (replace `UCASEUBUSERNAME` with your UB user name in all caps).
+- Your function should be in a Python script named `grades.py` 
 - Within this python script, you should write a function named `gradeInfo`
 - The `gradeInfo()` function will be called as follows: 
     - `gradeInfo(filename, numExams, hwWeight)`
-        - See `UCASEUBUSERNAME_grades.py` for information about these three input parameters.
+        - See `grades.py` for information about these three input parameters.
 
 Your `gradeInfo()` function should do the following:
 
